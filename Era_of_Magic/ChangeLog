@@ -1,0 +1,206 @@
+Era of Magic - ChangeLog
+------------------------
+
+Version 1.0.0
+
+- Translation
+    * Updated translations: German, Polish
+
+- Factions
+    * New faction: the Destroyers - an undead faction consisting of 19 animated units divided into 6 recruitable types
+    * Corrected various unit id references
+
+- Eras
+    * New game mode: EoMa Masters & Slaves - choose your lvl 3 hero and recruit your lvl 1 units only
+        * Era of Magic Masters renamed to EoMa Heroes
+        * Era of Magic RPG renamed to EoMa RPG
+
+- Units
+    * Changed every unit's unit type id to reflect its name
+    * Custom undead variations for almost all categories of era's units
+    * Mu gets new attack (impact - melee)
+    * Um gets new attack (pierce - melee)
+    * Goblin Warrior +2 damage to ranged attack
+    * Toads cost: 18g; 60% defense in swamp
+    * Wyvern Rider cost: 22g
+    * Salamander cost: 20g
+    * Shaman Adept cost: 17g
+    * Wyvern cost: 20g
+    * Golem cost: 22g
+    * Disciple cost: 14g; arcane resistance +20%; 60% cover in forests
+    * Roc Rider cost: 20g
+    * Blade Dancer moves: 6
+    * Dark Warrior cost: 15g; arcane resistance +10%; fire resistance +10%; 60% cover in villages
+    * Commander, General, Master of War arcane resistance +30%
+    * Slayer, Blade Dancer arcane resistance +20%; fearless trait
+    * Magical Eye 15 hp; cold resistance -20%
+    * Deadly Eye 25hp
+    * Hydra cost: 20g; 42 hp
+    * Witch arcane resistance +10%; pierce resistance +20%
+    * Dark Hunter, Dark Assassin added the marksman weapon special to the ranged attack
+    * Fire Cyclops, Ancient Cyclops more resistant to physical damage
+    * Added Water God portrait
+
+- Abilities and Weapon Specials
+    * New abilities: Area Attack and Lord of Fungus
+        * Rewritten/Fixed abilities:
+            - No Counter-Attack: doesn't work on units with the Berserker ability (finally!)
+            - Growing Fury: fixed the issue with setting unit's damage to constant value resulting in loss of damage upgrades
+            - Beam: fixed issue with damage calculation to a second target; the ability grants experience points after a successful kill
+            - Cleave: fixed issue with damage calculation; the ability grants experience points after a successul kill; removed old definitions
+            - Awake: fixed issue with unstoring units without presence of Inspired; simplified the code; updated descripion
+        * Removed abilties:
+            - Grenade
+    * Made it so that rune aura's activation code does not affect all Runemasters on the map
+
+- Other
+    * Updated the credits
+
+Version 0.18.0
+
+- Translation
+    * New translation: Italian
+
+- Other
+    * Dropped support for 1.9.9 and below, including all of 1.8.x.
+    * Fixed sculpted units' not being unpetrified if they were hit by a retaliating sculpt attack
+    * Enchanced sculpt's unpetrification event
+    * Made it so that hydra's strike's event code gets placed outside of [attack] blocks
+    * Made circle of susceptibility work properly
+
+Version 0.17.0a
+
+- Other
+    * Fixed version number in detect.cfg
+
+Version 0.17.0
+
+- Translation
+    * Updated translations: German, Russian
+
+- Eras
+    * Removed the Default + Khalifate + Magic era
+
+- Other
+    * Reimplemented cleave for 1.9.x clients. The new implementation is canned (and can be used with
+      the WEAPON_SPECIAL_CLEAVE macro) and takes things such as defense and alignment into account.
+
+- Units
+    * New unit: Sculptor: new advancement for the Subversive Mage
+    * Made all units conform to new AMLA XP standards on 1.9.10 and beyond
+
+Version 0.16.0
+- Translation
+    * Updated translations: German, Russian
+- Units
+    * Summoning now correctly excludes all impassible and water terrains
+
+Version 0.15.0
+
+- Translation
+    * Updated translations: Polish
+
+- Units
+    * Mage of Darkness renamed to Void Mage
+
+- Eras
+    * Guarded the Default + Khalifate + Magic era with #ifdef WESNOTH_VERSION, thus preventing it from
+      being used in 1.8
+
+- Other
+    * Added macros that hide non-EoMa units' help topics
+
+- Units
+    * Black Mage advances to Mage of Darkness (fixed wrong id error)
+    * Removed 'evasion' from Tharis Commander's line
+    * Removed resistance bonuses from Troll Warbanner's leadership ability
+    * +2 for ranged damage of Sorcerer and Warmage
+    * Added +10% of defense of Mage of Air and Master of Air
+    * Mage of Water: added 'heals +8' and 'cures' ability
+    * Efreeti: +1 to ranged attack
+    * Kharos Warbanner and Warbanner: added leadership ability
+
+Version 0.14.0
+
+- Translation
+    * New translations: Irish, Polish, Russian
+    * Updated translations: German
+
+- Eras
+    * Added a Default + Khalifate + Magic era
+
+- Units
+    * Reduced costs for all DBA units apart from Salamanders
+    * Added 'fearless'trait for Wyverns and Salamanders
+    * Reduced pierce resistance for Fire Elementals and advancements
+    * Increased cost of Rhami to 15 gold
+    * Decreased arcane resistance for all magical units except for Air, Earth Elementals and Dimensional Gates
+    * Shielder: melee damage -1
+    * Protector: spear damage -1, shield/spear throw damage -2
+    * Carpet Rider: added 'marksman', damage +2
+    * Jinn: range attack damage/strike +1/+1
+    * Goblin Kamikaze: increased damage +10
+    * Magical Eye, Deadly Eye: added 'precision' to all attacks
+    * Hidden Face, Mystical Warrior: added magical resistance 15%
+    * Corrected genders for female units
+    * Minor graphic improvements
+    * Improved some abilities descriptions
+    * Renamed the Abyssal Mage to Mage of Darkness
+    * Added sur.nhm's descriptions
+
+- Other
+    * Removed unused images
+    * Improved the dimensional vortex attack animation
+    * Renamed units' files to match their in-game names
+    * Changed directories names to match factions names
+    * Rewrote double attack and the DRT's version of it; renamed the DRT's version to "split fire"
+    * Modularized double attack, split fire, and energy draining
+    * Added a [binary_path] codeblock for the EoMa to campaign.cfg
+
+Version 0.13.0
+
+- Translation
+    * New translations: Hungarian, Japanese
+
+- Units
+    * Increased Magical Eye defenses to 60
+    * Battlemage: increased hp and damage
+    * Elementalist: added heal+4
+    * Subversive Magi: changed damage type to impact (ensnares)
+    * Golems: added the regeneration ability, reduced cost to 20
+    * Prophet of Light: decreased blinding light's damage to 20
+    * Avatar and God of Water: increased shallow water defense to 70
+    * The water regeneration ability works in swamp now
+    * Neutral Summoner:
+        - summons Jinns instead of Rhamis;
+        - has an aura of susceptibility;
+        - his range attack deals more damage (14)
+
+Version 0.12.2
+
+- Translation
+    * New translations: German
+
+- Other
+    * Added a loader file for campaigns (campaign.cfg)
+
+Version 0.12.1
+
+- Other
+    * Fixed directory name in a metatag
+
+Version 0.12.0
+
+- Abilities and Weapon Specials
+    * Balancing changes
+
+- Other
+    * Removed Mercurial cruft
+    * Added a "dist" directory that contains metatags useful for Wesnoth-UMC-Dev's tools
+    * Began to keep a changelog
+
+- Translation
+    * Made the plural string for the Tharis distinct from the singular string
+
+- Units
+    * Balancing changes
