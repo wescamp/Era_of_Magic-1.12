@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Era_of_Magic-1.12\n"
+"Project-Id-Version: Era_of_Magic-1.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-01-10 00:46-0500\n"
 "PO-Revision-Date: 2012-11-15 20:38+0100\n"

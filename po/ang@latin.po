@@ -1,10 +1,10 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Era_of_Magic-1.12\n"
+"Project-Id-Version: Era_of_Magic-1.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-01-10 00:46-0500\n"
-"PO-Revision-Date: 2013-01-10 00:46-0500\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2011-04-21 21:20-0500\n"
+"Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ang@latin\n"
 "MIME-Version: 1.0\n"
@@ -103,7 +103,7 @@ msgstr ""
 #: Era_of_Magic/factions/kharos-mrpg.cfg:4
 #: Era_of_Magic/factions/kharos-slaves.cfg:4
 msgid "Kharos"
-msgstr ""
+msgstr "Kharos"
 
 #. [multiplayer_side]: id=ancientdwarves, type=EoMa_Rune_Artist
 #. [multiplayer_side]: id=ancientdwarves, type=EoMa_Runesmith
@@ -125,7 +125,7 @@ msgstr ""
 #: Era_of_Magic/factions/summoners-mrpg.cfg:4
 #: Era_of_Magic/factions/summoners-slaves.cfg:4
 msgid "al-Kamija"
-msgstr ""
+msgstr "al-Kamija"
 
 #. [multiplayer_side]: id=warlocks, type=EoMa_Dark_Wizard
 #. [multiplayer_side]: id=warlocks, type=EoMa_Great_Warlock
@@ -136,7 +136,7 @@ msgstr ""
 #: Era_of_Magic/factions/warlocks-mrpg.cfg:4
 #: Era_of_Magic/factions/warlocks-slaves.cfg:4
 msgid "Tharis"
-msgstr ""
+msgstr "Þaris"
 
 #. [unit_type]: id=EoMa_Ancient_Cyclops, race=I8 cyclop
 #: Era_of_Magic/units/Barbarians/Ancient_Cyclops.cfg:4
@@ -304,7 +304,7 @@ msgstr ""
 #: Era_of_Magic/units/Tharis/Raging_Hydra.cfg:17
 #: Era_of_Magic/units/Tharis/Sworddancer.cfg:19
 msgid "."
-msgstr ""
+msgstr "."
 
 #. [attack]: type=arcane
 #. [attack]: type=cold
@@ -320,7 +320,7 @@ msgstr ""
 #: Era_of_Magic/units/Sky_Kingdom/Deadly_Eye.cfg:92
 #: Era_of_Magic/units/Sky_Kingdom/Magical_Eye.cfg:79
 msgid "eye"
-msgstr ""
+msgstr "eage"
 
 #. [unit_type]: id=EoMa_Barbarian, race=orc
 #: Era_of_Magic/units/Barbarians/Barbarian.cfg:4
@@ -332,7 +332,7 @@ msgstr ""
 #: Era_of_Magic/units/Barbarians/Barbarian_King.cfg:28
 #: Era_of_Magic/units/Barbarians/Barbarian_Lord.cfg:27
 msgid "sword+axe"
-msgstr ""
+msgstr "sƿeord+æx"
 
 #. [unit_type]: id=EoMa_Barbarian_Berserker, race=orc
 #: Era_of_Magic/units/Barbarians/Barbarian_Berserker.cfg:4
@@ -388,7 +388,7 @@ msgstr ""
 #: Era_of_Magic/units/Barbarians/Cyclops_Mighty.cfg:28
 #: Era_of_Magic/units/Barbarians/Raging_Cyclops.cfg:113
 msgid "tree"
-msgstr ""
+msgstr "treoƿ"
 
 #. [attack]: type=pierce
 #: Era_of_Magic/units/Barbarians/Cyclops_Destroyer.cfg:82
@@ -628,7 +628,7 @@ msgstr ""
 #: Era_of_Magic/units/Dark_Blood_Alliance/Shamanistic_Toad.cfg:35
 #: Era_of_Magic/units/Dark_Blood_Alliance/Toad.cfg:88
 msgid "tongue"
-msgstr ""
+msgstr "tunge"
 
 #. [attack]: type=impact
 #. [attack]: type=pierce
@@ -887,7 +887,7 @@ msgstr ""
 #. [unit_type]: id=EoMa_Toad, race=lizard
 #: Era_of_Magic/units/Dark_Blood_Alliance/Toad.cfg:4
 msgid "Toad"
-msgstr ""
+msgstr "Tadige"
 
 #. [unit_type]: id=EoMa_Toad, race=lizard
 #: Era_of_Magic/units/Dark_Blood_Alliance/Toad.cfg:18
@@ -1110,7 +1110,7 @@ msgstr ""
 #: Era_of_Magic/units/Kharos/Child_of_Light.cfg:71
 #: Era_of_Magic/units/Kharos/Sister_of_Light.cfg:83
 msgid "ray of light"
-msgstr ""
+msgstr "leoma"
 
 #. [unit_type]: id=EoMa_Cleric, race=human
 #: Era_of_Magic/units/Kharos/Cleric.cfg:4
@@ -1210,7 +1210,7 @@ msgstr ""
 #. [unit_type]: id=EoMa_Kirios, race=human
 #: Era_of_Magic/units/Kharos/Kirios.cfg:4
 msgid "Kirios"
-msgstr ""
+msgstr "Kirios"
 
 #. [unit_type]: id=EoMa_Kirios, race=human
 #: Era_of_Magic/units/Kharos/Kirios.cfg:19
@@ -1316,7 +1316,7 @@ msgstr ""
 #: Era_of_Magic/units/Kharos/Protector.cfg:58
 #: Era_of_Magic/units/Kharos/Shielder.cfg:58
 msgid "shield"
-msgstr ""
+msgstr "scyld"
 
 #. [unit_type]: id=EoMa_Revenger, race=human
 #: Era_of_Magic/units/Kharos/Revenger.cfg:4
@@ -1333,7 +1333,7 @@ msgstr ""
 #. [unit_type]: id=EoMa_Shielder, race=human
 #: Era_of_Magic/units/Kharos/Shielder.cfg:4
 msgid "Shielder"
-msgstr ""
+msgstr "Scyldwiga"
 
 #. [unit_type]: id=EoMa_Shielder, race=human
 #: Era_of_Magic/units/Kharos/Shielder.cfg:20
@@ -1581,7 +1581,7 @@ msgstr ""
 #: Era_of_Magic/units/Runemasters/Mechanic.cfg:43
 #: Era_of_Magic/units/Runemasters/Technician.cfg:57
 msgid "key"
-msgstr ""
+msgstr "cæg"
 
 #. [attack]: type=pierce
 #: Era_of_Magic/units/Runemasters/Mechanic.cfg:52
@@ -1651,8 +1651,9 @@ msgstr ""
 #. [attack]: type=impact
 #: Era_of_Magic/units/Runemasters/Rune_Artist.cfg:29
 #: Era_of_Magic/units/Runemasters/Runemaster.cfg:27
+#, fuzzy
 msgid "runic hammer"
-msgstr ""
+msgstr "hamor"
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Runemasters/Rune_Artist.cfg:41
@@ -1660,7 +1661,7 @@ msgstr ""
 #: Era_of_Magic/units/Runemasters/Runemaster.cfg:39
 #: Era_of_Magic/units/Runemasters/Runesmith.cfg:41
 msgid "runes"
-msgstr ""
+msgstr "runa"
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Runemasters/Rune_Artist.cfg:53
@@ -2002,7 +2003,7 @@ msgstr ""
 #: Era_of_Magic/units/al_Kamija/Air_Avatar.cfg:62
 #: Era_of_Magic/units/al_Kamija/Air_God.cfg:121
 msgid "thunder"
-msgstr ""
+msgstr "þunor"
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Sky_Kingdom/Master_of_Air.cfg:212
@@ -2101,7 +2102,7 @@ msgstr ""
 #. [unit_type]: id=EoMa_Mu, race=monster
 #: Era_of_Magic/units/Sky_Kingdom/Mu.cfg:4
 msgid "Mu"
-msgstr ""
+msgstr "Mu"
 
 #. [unit_type]: id=EoMa_Mu, race=monster
 #: Era_of_Magic/units/Sky_Kingdom/Mu.cfg:19
@@ -2113,7 +2114,7 @@ msgstr ""
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Sky_Kingdom/Mu.cfg:90
 msgid "mu"
-msgstr ""
+msgstr "mu"
 
 #. [unit_type]: id=EoMa_Mystic_Warrior, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Mystic_Warrior.cfg:4
@@ -2189,7 +2190,7 @@ msgstr ""
 #. [unit_type]: id=EoMa_Um, race=monster
 #: Era_of_Magic/units/Sky_Kingdom/Um.cfg:4
 msgid "Um"
-msgstr ""
+msgstr "Um"
 
 #. [unit_type]: id=EoMa_Um, race=monster
 #: Era_of_Magic/units/Sky_Kingdom/Um.cfg:19
@@ -2207,7 +2208,7 @@ msgstr ""
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Sky_Kingdom/Um.cfg:83
 msgid "um"
-msgstr ""
+msgstr "um"
 
 #. [unit_type]: id=EoMa_Void_Mage, race=human
 #: Era_of_Magic/units/Sky_Kingdom/Void_Mage.cfg:4
@@ -2311,12 +2312,12 @@ msgstr ""
 #: Era_of_Magic/units/Tharis/Great_Hunter.cfg:23
 #: Era_of_Magic/units/Tharis/Great_Hunter.cfg:35
 msgid "knives"
-msgstr ""
+msgstr "cnifas"
 
 #. [unit_type]: id=EoMa_Dark_Hunter, race=I8 tharis
 #: Era_of_Magic/units/Tharis/Dark_Hunter.cfg:4
 msgid "Dark Hunter"
-msgstr ""
+msgstr "Deorc Dræfend"
 
 #. [unit_type]: id=EoMa_Dark_Slayer, race=I8 tharis
 #: Era_of_Magic/units/Tharis/Dark_Slayer.cfg:4
@@ -2331,7 +2332,7 @@ msgstr ""
 #. [unit_type]: id=EoMa_Dark_Witch, race=I8 tharis
 #: Era_of_Magic/units/Tharis/Dark_Witch.cfg:4
 msgid "Dark Witch"
-msgstr ""
+msgstr "Deorce Ƿicce"
 
 #. [unit_type]: id=EoMa_Dark_Witch, race=I8 tharis
 #: Era_of_Magic/units/Tharis/Dark_Witch.cfg:19
@@ -2409,7 +2410,7 @@ msgstr ""
 #: Era_of_Magic/units/Tharis/Great_Warlock.cfg:110
 #: Era_of_Magic/units/Tharis/Master_of_Darkness.cfg:268
 msgid "scythe"
-msgstr ""
+msgstr "siðe"
 
 #. [attack]: type=cold
 #: Era_of_Magic/units/Tharis/Great_Warlock.cfg:129
@@ -2495,12 +2496,12 @@ msgstr ""
 #: Era_of_Magic/units/Tharis/Sworddancer.cfg:24
 #: Era_of_Magic/units/al_Kamija/RhamiDatu.cfg:131
 msgid "swords"
-msgstr ""
+msgstr "sƿeord"
 
 #. [unit_type]: id=EoMa_Witch, race=I8 tharis
 #: Era_of_Magic/units/Tharis/Witch.cfg:4
 msgid "Witch"
-msgstr ""
+msgstr "Ƿicce"
 
 #. [unit_type]: id=EoMa_Witch, race=I8 tharis
 #: Era_of_Magic/units/Tharis/Witch.cfg:20
@@ -2562,7 +2563,7 @@ msgstr ""
 #. [unit_type]: id=EoMa_Air_God, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Air_God.cfg:4
 msgid "Air God"
-msgstr ""
+msgstr "Lyft God"
 
 #. [unit_type]: id=EoMa_Air_God, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Air_God.cfg:18
@@ -2692,7 +2693,7 @@ msgstr ""
 #. [unit_type]: id=EoMa_DharmaRhami, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/DharmaRhami.cfg:4
 msgid "Dharma’rhami"
-msgstr ""
+msgstr "Dharma’rhami"
 
 #. [unit_type]: id=EoMa_DharmaRhami, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/DharmaRhami.cfg:19
@@ -2816,7 +2817,7 @@ msgstr ""
 #. [unit_type]: id=EoMa_Earth_God, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Earth_God.cfg:4
 msgid "Earth God"
-msgstr ""
+msgstr "Eorþ God"
 
 #. [unit_type]: id=EoMa_Earth_God, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Earth_God.cfg:16
@@ -2833,7 +2834,7 @@ msgstr ""
 #. [unit_type]: id=EoMa_Efreet, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Efreeti.cfg:4
 msgid "Efreet"
-msgstr ""
+msgstr "Efreet"
 
 #. [unit_type]: id=EoMa_Efreet, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Efreeti.cfg:18
@@ -2900,7 +2901,7 @@ msgstr ""
 #. [unit_type]: id=EoMa_Fire_God, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Fire_God.cfg:4
 msgid "Fire God"
-msgstr ""
+msgstr "Fyr God"
 
 #. [unit_type]: id=EoMa_Fire_God, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Fire_God.cfg:18
@@ -3043,12 +3044,12 @@ msgstr ""
 #: Era_of_Magic/units/al_Kamija/Novice_Summoner.cfg:166
 #: Era_of_Magic/units/al_Kamija/Summoner.cfg:150
 msgid "scroll"
-msgstr ""
+msgstr "ymele"
 
 #. [unit_type]: id=EoMa_HoRhami, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/HoRhami.cfg:4
 msgid "Ho’rhami"
-msgstr ""
+msgstr "Ho’rhami"
 
 #. [unit_type]: id=EoMa_HoRhami, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/HoRhami.cfg:19
@@ -3072,7 +3073,7 @@ msgstr ""
 #. [unit_type]: id=EoMa_Jinn, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Jinn.cfg:4
 msgid "Jinn"
-msgstr ""
+msgstr "Jinn"
 
 #. [unit_type]: id=EoMa_Jinn, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Jinn.cfg:19
@@ -3196,7 +3197,7 @@ msgstr ""
 #. [unit_type]: id=EoMa_Rhami, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Rhami.cfg:4
 msgid "Rhami"
-msgstr ""
+msgstr "Rhami"
 
 #. [unit_type]: id=EoMa_Rhami, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Rhami.cfg:19
@@ -3220,7 +3221,7 @@ msgstr ""
 #. [unit_type]: id=EoMa_RhamiDatu, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/RhamiDatu.cfg:4
 msgid "Rhami’datu"
-msgstr ""
+msgstr "Rhami’datu"
 
 #. [unit_type]: id=EoMa_RhamiDatu, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/RhamiDatu.cfg:18
@@ -3239,7 +3240,7 @@ msgstr ""
 #. [unit_type]: id=EoMa_RhamiKai, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/RhamiKai.cfg:4
 msgid "Rhami’kai"
-msgstr ""
+msgstr "Rhami’kai"
 
 #. [unit_type]: id=EoMa_RhamiKai, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/RhamiKai.cfg:18
@@ -3350,7 +3351,7 @@ msgstr ""
 #. [unit_type]: id=EoMa_Water_God, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Water_God.cfg:4
 msgid "Water God"
-msgstr ""
+msgstr "Ƿæter God"
 
 #. [unit_type]: id=EoMa_Water_God, race=I8 magical
 #: Era_of_Magic/units/al_Kamija/Water_God.cfg:26
@@ -3369,17 +3370,17 @@ msgstr ""
 #. [race]: id=I8 tharis
 #: Era_of_Magic/units/units.cfg:5
 msgid "race^Tharis"
-msgstr ""
+msgstr "Þaris"
 
 #. [race]: id=I8 tharis
 #: Era_of_Magic/units/units.cfg:6
 msgid "race+female^Tharis"
-msgstr ""
+msgstr "Þaris"
 
 #. [race]: id=I8 tharis
 #: Era_of_Magic/units/units.cfg:7
 msgid "race+plural^Tharis"
-msgstr ""
+msgstr "Þaris"
 
 #. [race]: id=I8 cyclop
 #: Era_of_Magic/units/units.cfg:15
@@ -3449,11 +3450,15 @@ msgid ""
 "Yusuf,Ahmed,Najib,Samir,Hassan,Hisham,Karim,Saif,Rahul,Rohan,Rohit,Nikhil,"
 "Shahrukh,Krishi"
 msgstr ""
+"Alib,Kalib,Balib,Safay,Jaffar,Semir,Celal,Fatih,Ferhan,Mustafa,Mehmet,Melih,"
+"Ali,Adem,Ahmet,Altan,Ismet,Ibrahim,Hakan,Kemal,Kenan,Rafet,Tahir,Yasar,Yasin,"
+"Yusuf,Ahmed,Najib,Samir,Hassan,Hisham,Karim,Saif,Rahul,Rohan,Rohit,Nikhil,"
+"Shahrukh,Krishi"
 
 #. [regenerate]: id=water
 #: Era_of_Magic/utils/abilities.cfg:7 Era_of_Magic/utils/abilities.cfg:10
 msgid "water"
-msgstr ""
+msgstr "ƿæter"
 
 #. [regenerate]: id=water
 #: Era_of_Magic/utils/abilities.cfg:8
@@ -3473,7 +3478,7 @@ msgstr ""
 #. [regenerate]: id=fire
 #: Era_of_Magic/utils/abilities.cfg:27 Era_of_Magic/utils/abilities.cfg:30
 msgid "fire"
-msgstr ""
+msgstr "fyr"
 
 #. [regenerate]: id=fire
 #: Era_of_Magic/utils/abilities.cfg:28 Era_of_Magic/utils/abilities.cfg:31
@@ -3717,7 +3722,7 @@ msgstr ""
 #. [dummy]: id=i8fury
 #: Era_of_Magic/utils/abilities.cfg:442
 msgid "fury"
-msgstr ""
+msgstr "hæst"
 
 #. [dummy]: id=i8fury
 #: Era_of_Magic/utils/abilities.cfg:443
@@ -3729,7 +3734,7 @@ msgstr ""
 #. [unstore_unit]
 #: Era_of_Magic/utils/abilities.cfg:465
 msgid "FURY!"
-msgstr ""
+msgstr "HÆST!"
 
 #. [damage]: id=i8furiousdeath
 #: Era_of_Magic/utils/abilities.cfg:544
@@ -3873,7 +3878,7 @@ msgstr ""
 #. [damage]: id=swallow
 #: Era_of_Magic/utils/abilities.cfg:924 Era_of_Magic/utils/abilities.cfg:925
 msgid "swallow +4"
-msgstr ""
+msgstr "sƿilgeþ +4"
 
 #. [damage]: id=swallow
 #: Era_of_Magic/utils/abilities.cfg:926 Era_of_Magic/utils/abilities.cfg:928
@@ -3886,7 +3891,7 @@ msgstr ""
 #. [unstore_unit]
 #: Era_of_Magic/utils/abilities.cfg:955
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #. [hides]: id=swampambush
 #: Era_of_Magic/utils/abilities.cfg:978 Era_of_Magic/utils/abilities.cfg:979
@@ -4016,7 +4021,7 @@ msgstr ""
 #. [heals]: id=healing
 #: Era_of_Magic/utils/abilities.cfg:1352
 msgid "heals +2"
-msgstr ""
+msgstr "hælaþ +2"
 
 #. [heals]: id=healing
 #: Era_of_Magic/utils/abilities.cfg:1353
@@ -4279,13 +4284,13 @@ msgstr ""
 #: Era_of_Magic/utils/i8cleave.cfg:391 Era_of_Magic/utils/i8cleave.cfg:408
 #: Era_of_Magic/utils/i8cleave.cfg:494 Era_of_Magic/utils/i8cleave.cfg:511
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #. [unstore_unit]
 #: Era_of_Magic/utils/i8cleave.cfg:426 Era_of_Magic/utils/i8cleave.cfg:443
 #: Era_of_Magic/utils/i8cleave.cfg:529 Era_of_Magic/utils/i8cleave.cfg:546
 msgid "9"
-msgstr ""
+msgstr "9"
 
 #. [dummy]: id=i8cleavehydra
 #: Era_of_Magic/utils/i8cleave.cfg:565 Era_of_Magic/utils/i8cleave.cfg:798
@@ -4304,13 +4309,13 @@ msgstr ""
 #: Era_of_Magic/utils/i8cleave.cfg:623 Era_of_Magic/utils/i8cleave.cfg:640
 #: Era_of_Magic/utils/i8cleave.cfg:726 Era_of_Magic/utils/i8cleave.cfg:743
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #. [unstore_unit]
 #: Era_of_Magic/utils/i8cleave.cfg:658 Era_of_Magic/utils/i8cleave.cfg:675
 #: Era_of_Magic/utils/i8cleave.cfg:761 Era_of_Magic/utils/i8cleave.cfg:778
 msgid "12"
-msgstr ""
+msgstr "12"
 
 #. [leadership]: id=leadership
 #: Era_of_Magic/utils/leaderships.cfg:7
@@ -4570,3 +4575,39 @@ msgstr ""
 #: Era_of_Magic/utils/traits.cfg:8
 msgid "female^magical"
 msgstr ""
+
+#~ msgid "spear"
+#~ msgstr "gar"
+
+#~ msgid "claws"
+#~ msgstr "claƿe"
+
+#~ msgid "sword"
+#~ msgstr "sƿeord"
+
+#~ msgid "staff"
+#~ msgstr "stæf"
+
+#~ msgid "net"
+#~ msgstr "net"
+
+#~ msgid "fist"
+#~ msgstr "fyst"
+
+#~ msgid "race^Human"
+#~ msgstr "Mann"
+
+#~ msgid "race+female^Human"
+#~ msgstr "Mann"
+
+#~ msgid "race^Humans"
+#~ msgstr "Menn"
+
+#~ msgid "No"
+#~ msgstr "Nese"
+
+#~ msgid "Yes"
+#~ msgstr "Gese"
+
+#~ msgid "Swallow +4"
+#~ msgstr "Sƿilgeþ +4"
